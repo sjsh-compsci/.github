@@ -62,13 +62,13 @@ GitHub:
 
 GitHub:
 
-- [<아이디>](https://github.com/<아이디>)
+- [sjiniel](https://github.com/sjiniel)
 
 언어:
 
-- <언어>
+- python, C++
 
-<자기소개>
+안녕하세요
 
 </details>
 
