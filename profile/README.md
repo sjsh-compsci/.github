@@ -154,13 +154,13 @@ GitHub:
 
 GitHub:
 
-- [<아이디>](https://github.com/<아이디>)
+- [sejong13th](https://github.com/sejong13th)
 
 언어:
+- python (아마도)
+- C언어 (파이선보다 못함;;)
 
-- <언어>
-
-<자기소개>
+하고싶은것만 많은 평범한 고3입니다
 
 </details>
 
