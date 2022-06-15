@@ -11,13 +11,13 @@
 
 GitHub:
 
-- [<아이디>](https://github.com/<아이디>)
+- [steve060901](https://github.com/steve060901)
 
 언어:
 
-- <언어>
+- C/C++
 
-<자기소개>
+안녕하세요
 
 </details>
 
