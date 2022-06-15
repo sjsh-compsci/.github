@@ -167,17 +167,19 @@ GitHub:
 
 <details>
 
-<summary style="color:purple">3407 손호재</summary>
+<summary style="color:red">3407 손호재</summary>
 
 GitHub:
 
-- [<아이디>](https://github.com/<아이디>)
+- [RedA1-developer] (https://github.com/RedA1-developer)
+ 
+언어:  
 
-언어:
-
-- <언어>
+- C/C++
+- Python
 
 <자기소개>
+- 안녕하세요! 3407 손호재입니다!
 
 </details>
 
